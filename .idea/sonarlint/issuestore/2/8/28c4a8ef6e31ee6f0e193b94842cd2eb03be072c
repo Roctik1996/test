@@ -1,0 +1,11 @@
+
+W
+java:S1854t":Remove this useless assignment to local variable "bitmap".(ÈåÒê8éñÕÜ›.
+L
+java:S1066o"/Merge this if statement with the enclosing one.(¾Çß8éñÕÜ›.
+H
+java:S1481t"+Remove this unused "bitmap" local variable.(ÈåÒê8éñÕÜ›.
+E
+java:S4274p"(Replace this assert with a proper check.(ïÃ¤Ã8¶çÜ›.
+E
+java:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éñÕÜ›.

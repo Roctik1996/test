@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="my_profile">My profile</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="professional_information">Professional information:</string>
+    <string name="profession">Profession</string>
+    <string name="industry">Industry</string>
+    <string name="skills">Skills</string>
+    <string name="profession_details">Profession details</string>
+    <string name="phone">Phone</string>
+    <string name="preffered_contact_method">Preffered contact method</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="website">Website</string>
+    <string name="company">Company</string>
+    <string name="address">Address</string>
+
+    <string-array name="prof">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+        <item>item 4</item>
+    </string-array>
+</resources>

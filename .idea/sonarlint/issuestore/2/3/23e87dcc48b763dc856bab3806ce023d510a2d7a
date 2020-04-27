@@ -1,0 +1,16 @@
+
+o
+java:S11043"TMake fileName a static final constant or non-public and provide accessors if needed.(°ÂÈäüÿÿÿÿ
+v	java:S1162"\Rename this field "IMAGE_COMPRESSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞêŠÿÿÿÿÿ
+<	java:S131^""Add a default case to this switch.(öÛ«°şÿÿÿÿ
+V	java:S899";Do something with the "boolean" value returned by "delete".(¼ú™ıÿÿÿÿ
+Q
+java:S2696t"6Make the enclosing method "static" or remove this set.(œì›³üÿÿÿÿ
+s	java:S1161"YRename this field "ASPECT_RATIO_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìõ‘ıûÿÿÿÿ
+f
+java:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°şÿÿÿÿ
+s	java:S1161"YRename this field "ASPECT_RATIO_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìõ‘ıûÿÿÿÿ
+e
+java:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(¼ú™ıÿÿÿÿ
+I
+java:S14443".Make this "public static fileName" field final(°ÂÈäüÿÿÿÿ
